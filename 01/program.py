@@ -1,2 +1,1 @@
-un=input('user name =')
-print('hello,',un,'!')
+print('hello, world!')
