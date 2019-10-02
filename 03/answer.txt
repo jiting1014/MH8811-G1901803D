@@ -1,0 +1,5 @@
+What else can you make a function？
+Using lambda can also define a function.
+eg. square = lambda x: x*x
+      square (3)
+      9
