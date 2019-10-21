@@ -1,0 +1,11 @@
+Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=============== RESTART: C:\Users\lenovo\Desktop\Untitled-1.py ===============
+How long do you want your password to be?12
+Your password is:
+|29&]n5V0_>"
+Accept the password? (Y/N)Y
+Please remember your password:
+|29&]n5V0_>"
+>>> 
